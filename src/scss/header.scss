@@ -1,0 +1,26 @@
+.head{
+    padding: 50px;
+    width: auto;
+    background-color: #663913;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.titulo{
+    left: 0;
+}
+
+.botola{
+    padding-left: 15px;
+    display: flex;
+    justify-content: space-between;
+
+    button{
+        border: 0;
+        background-color: black;
+        color: white;
+        margin: 10px;
+        padding: 20px;
+    }
+}
